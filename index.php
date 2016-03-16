@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Tokyo');
 require_once('app/Common/Common.php');
 require_once('app/Common/Log.php');
 require_once('app/Controller/TopController.php');
-require_once('app/Controller/MyPageController.php');
+require_once('app/Controller/MypageController.php');
 
 session_start();
 
