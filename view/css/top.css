@@ -1,0 +1,11 @@
+.newentybtn a{
+      display: block;
+      width: 200px;
+      margin: 0;
+      color: black;
+      text-align: center;
+      text-decoration: none;
+      background-color: pink;
+      border-radius: 5px;
+      box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6), inset -4px -4px 4px rgba(0, 0, 0, 0.4), 4px 4px 8px rgba(0, 0, 0, 0.6);
+}
