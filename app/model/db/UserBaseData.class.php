@@ -43,7 +43,5 @@ class UserBaseData{
 		$stml->execute();
 
 		$ret = $stml->fetch(PDO::FETCH_ASSOC);
-
-		Log::pp($ret);
 	}
 }
